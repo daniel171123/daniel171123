@@ -38,6 +38,6 @@
 ### 📫 Connect with me
 < Uncomment and fill in the ones you want >
 <
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/daniel-alegn-9b5a65288)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([www.linkedin.com/in/daniel-alegn-9b5a65288](https://www.linkedin.com/in/daniel-alegn-9b5a65288/))
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourhandle)
 >
