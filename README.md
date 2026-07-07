@@ -36,8 +36,8 @@
 ---
 
 ### 📫 Connect with me
-<!-- Uncomment and fill in the ones you want -->
-<!--
+< Uncomment and fill in the ones you want >
+<
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter)](https://twitter.com/yourhandle)
--->
+>
