@@ -4,12 +4,11 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I'm currently working on **[project name]**
-- 🌱 I'm currently learning **[technology/skill]**
-- 👯 I'm looking to collaborate on **[type of project]**
-- 💬 Ask me about **[your strengths, e.g. Python, web dev, data]**
-- 📫 How to reach me: **[email or preferred contact]**
-- ⚡ Fun fact: **[something interesting about you]**
+- 🔭 I'm currently working on **[Smart mall rental management system]**
+- 🌱 I'm currently learning **[Django and python]**
+- 👯 I'm looking to collaborate on **[IT support and fullstuck development]**
+- 💬 Ask me about **[ Python, web dev, data]**
+- 📫 How to reach me: **[danielalelegn171@gmail.com]**
 
 ---
 
